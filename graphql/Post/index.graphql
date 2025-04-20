@@ -1,0 +1,3 @@
+#import ./mutation.graphql
+#import ./query.graphql
+#import ./type.graphql

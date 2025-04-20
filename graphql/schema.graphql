@@ -1,0 +1,5 @@
+# user
+#import User/index.graphql
+
+#post 
+#import Post/index.graphql

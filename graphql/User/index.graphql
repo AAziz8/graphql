@@ -1,0 +1,3 @@
+#import ./userMutation.graphql
+#import ./userQuery.graphql
+#import ./userType.graphql
